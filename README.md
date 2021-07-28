@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics development
 - 🌱 I’m currently learning cc2650 launchpad programming
 - 💞️ I’m looking to collaborate on cc2650 launchpad
-- 📫 How to reach me ...
+- 📫 madhan51196raj@gmail.com
 
 <!---
 MaddyRockzz96/MaddyRockzz96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
